@@ -1,0 +1,50 @@
+h1{
+	
+	text-align:center;
+}
+
+html {background:radial-gradient(white,blue);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
+  
+
+.d{
+	
+	font-size:50 px;
+	display: inline-block;
+    padding: 30px;
+}
+
+.d1{
+	
+	font-size:50 px;
+	display: inline-block;
+    padding: 30px;
+}
+
+.d2{
+	
+	font-size:50 px;
+	display: inline-block;
+    padding: 30px;
+}
+
+.d3{
+
+	font-size:50 px;
+	display: inline-block;
+    padding: 30px;
+}
+
+
+.d4{
+
+	font-size:50 px;
+	display: inline-block;
+    padding: 30px;
+}
